@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eMemo_v2", "eMemo_v2.csproj", "{B7D7893C-7BB9-4110-BB49-A12F41675C83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eMemo_v2Web", "..\eMemo_v2Web\eMemo_v2Web.csproj", "{C26ED078-52C2-4236-B53E-2AF28F8802D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7D7893C-7BB9-4110-BB49-A12F41675C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D7893C-7BB9-4110-BB49-A12F41675C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D7893C-7BB9-4110-BB49-A12F41675C83}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B7D7893C-7BB9-4110-BB49-A12F41675C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D7893C-7BB9-4110-BB49-A12F41675C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D7893C-7BB9-4110-BB49-A12F41675C83}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C26ED078-52C2-4236-B53E-2AF28F8802D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26ED078-52C2-4236-B53E-2AF28F8802D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26ED078-52C2-4236-B53E-2AF28F8802D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26ED078-52C2-4236-B53E-2AF28F8802D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A691668-7C2A-488B-AEF4-DB097006A6EB}
+	EndGlobalSection
+EndGlobal

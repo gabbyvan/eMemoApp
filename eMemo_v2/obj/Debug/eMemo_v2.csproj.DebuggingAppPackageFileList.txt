@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\eMemo_v2Manifest.xml
+C:\Users\AyiNiiVanderpuye\Desktop\eMEMOv2\eMemo_v2\bin\Debug\eMemo_v2.debugapp

@@ -1,0 +1,7 @@
+False
+dd33e7ca-095b-4a23-95a3-119fdd9a69d24fab9799-fde4-4533-9fb8-871bac9ebf29
+{ef2bd523-db01-4a69-9589-8f666a34e87b}{d2530548-8036-45da-928d-374ef801f0ba}
+{dbcf8f89-c95f-4da9-bbbe-c9ce000af212}
+1.0.0.0
+eMemo_v2
+_layouts/15/
