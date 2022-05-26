@@ -62,7 +62,7 @@
           </GetStarted>
           <!-- Function file is a HTML page that includes the JavaScript where functions for ExecuteAction will be called. 
             Think of the FunctionFile as the code behind ExecuteFunction. -->
-          <FunctionFile resid="Contoso.DesktopFunctionFile.Url" />
+          <FunctionFile resid="Commands.Url" />
 
           <!-- PrimaryCommandSurface is the main Office Ribbon. -->
           <ExtensionPoint xsi:type="PrimaryCommandSurface">
@@ -117,7 +117,7 @@
         <bt:Image id="Contoso.tpicon_80x80" DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/office-add-in-commands/word/assets/icon-80.png" />
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Contoso.DesktopFunctionFile.Url" DefaultValue="https://github.com/gabbyvan/eMemoApp/blob/main/e-memo2/eMemoWeb/Functions/FunctionFile.html" />
+        <bt:Url id="Commands.Url" DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/office-add-in-commands/word/src/commands/commands.html" />
         <bt:Url id="Contoso.Taskpane.Url" DefaultValue="https://github.com/gabbyvan/eMemoApp/blob/main/e-memo2/eMemoWeb/Home.html" />
         <bt:Url id="Contoso.GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812" />
       </bt:Urls>
