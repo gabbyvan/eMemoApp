@@ -37,7 +37,7 @@
   </Hosts>
 	
   <DefaultSettings>
-    <SourceLocation DefaultValue="~remoteAppUrl/Home.html?cache=s98sj398nf03984jf3498n1" />
+    <SourceLocation DefaultValue="https://github.com/gabbyvan/eMemoApp/blob/main/eMemo_v2Web/Home.html" />
   </DefaultSettings>
   <!-- End TaskPane Mode integration.  -->
 
@@ -123,7 +123,7 @@
       </bt:Images>
       <bt:Urls>
         <bt:Url id="Contoso.DesktopFunctionFile.Url" DefaultValue="~remoteAppUrl/Functions/FunctionFile.html" />
-        <bt:Url id="Contoso.Taskpane.Url" DefaultValue="~remoteAppUrl/Home.html?cache=s98sj398nf03984jf3498n1" />
+        <bt:Url id="Contoso.Taskpane.Url" DefaultValue="https://github.com/gabbyvan/eMemoApp/blob/main/eMemo_v2Web/Home.html" />
         <bt:Url id="Contoso.GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812" />
       </bt:Urls>
       <!-- ShortStrings max characters==125. -->
