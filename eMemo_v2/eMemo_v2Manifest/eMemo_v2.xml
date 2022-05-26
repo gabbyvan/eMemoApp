@@ -125,7 +125,7 @@
       </bt:Images>
       <bt:Urls>
         <bt:Url id="Commands.Url" DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/office-add-in-commands/word/src/commands/commands.html" />
-        <bt:Url id="Contoso.Taskpane.Url" DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/office-add-in-commands/word/src/taskpane/taskpane.html" />
+        <bt:Url id="Contoso.Taskpane.Url" DefaultValue="https://github.com/gabbyvan/eMemoApp/blob/main/eMemo_v2Web/Home.html" />
         <bt:Url id="Contoso.GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812" />
       </bt:Urls>
       <!-- ShortStrings max characters==125. -->
