@@ -16,7 +16,7 @@
     <Host Name="Document"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/office-add-in-commands/word/src/taskpane/Home.html"/>
+    <SourceLocation DefaultValue="https://github.com/gabbyvan/eMemoApp/blob/main/word/src/taskpane/Home.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
@@ -125,7 +125,7 @@
 		  </bt:Images>
 		  <bt:Urls>
 			  <bt:Url id="Commands.Url" DefaultValue="https://github.com/gabbyvan/eMemoApp/blob/main/word/src/commands/commands.html" />
-			  <bt:Url id="Contoso.Taskpane.Url" DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/office-add-in-commands/word/src/taskpane/Home.html" />
+			  <bt:Url id="Contoso.Taskpane.Url" DefaultValue="https://github.com/gabbyvan/eMemoApp/blob/main/word/src/taskpane/Home.html" />
 			  <bt:Url id="Contoso.GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812" />
 		  </bt:Urls>
 		  <!-- ShortStrings max characters==125. -->
