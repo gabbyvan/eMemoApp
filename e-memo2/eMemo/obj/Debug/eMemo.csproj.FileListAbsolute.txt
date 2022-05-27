@@ -1,2 +1,0 @@
-C:\Users\AyiNiiVanderpuye\Desktop\e-memo\e-memo2\eMemo\obj\Debug\eMemo.csproj.CoreCompileInputs.cache
-C:\Users\AyiNiiVanderpuye\Desktop\e-memo\e-memo2\eMemo\obj\Debug\eMemo.csproj.AssemblyReference.cache
